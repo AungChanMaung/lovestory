@@ -1,0 +1,3 @@
+git init 
+ggit remote add origin URL
+Git remote show origin
